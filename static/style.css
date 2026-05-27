@@ -96,3 +96,9 @@ p {
     .telegram:hover {
         text-decoration: underline;
     }
+
+.vpn-warning {
+    margin-top: 12px;
+    font-size: 14px;
+    color: #bfbfbf;
+}
